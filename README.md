@@ -1,13 +1,18 @@
-1. Bag-of-Words + Random Forest
-   • Basic text frequency features
-   • Accuracy: 78.6%
+# 🤖 AI Duplicate Question Detection System
 
-2. TF-IDF + Random Forest
-   • Weighted word importance
-   • Accuracy improved to: 80%
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/NLP-Sentence--BERT-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Model-LightGBM-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Accuracy-86.7%25-brightgreen?style=for-the-badge">
+</p>
 
-3. Sentence-BERT + LightGBM
-   • Semantic embeddings (768-d vectors)
-   • Cosine similarity feature
-   • Feature engineering
-   • Final Accuracy: 86.7%
+An NLP-powered web application that detects whether two questions are semantically similar using **Sentence-BERT embeddings** and a **LightGBM classifier**.
+
+The system evolved through multiple NLP approaches, achieving **86.7% accuracy** using transformer-based semantic features.
+
+---
+
+## 🚀 Live Demo
+🔗 **App Link:**  
