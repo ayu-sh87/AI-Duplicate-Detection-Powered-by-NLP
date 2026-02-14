@@ -153,12 +153,19 @@ Real user feedback for accuracy tracking
 Docker-based deployment
 REST API for integration
 
-📸 Screenshots
-Add screenshots of your app here
-Example:
+## 📸 Application Screenshots
 
-screenshots/predict.png
-screenshots/analytics.png
+### Login Page
+![Login](screenshots/login.png)
+
+### Prediction Page
+![Predict](screenshots/predict.png)
+
+### History Page
+![History](screenshots/history.png)
+
+### Analytics Dashboard
+![Analytics](screenshots/analytics.png)
 
 👨‍💻 Author
 Ayush Singh
