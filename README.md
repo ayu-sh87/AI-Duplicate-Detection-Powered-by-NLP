@@ -156,7 +156,7 @@ REST API for integration
 ## 📸 Application Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/landing.png)
 
 ### Prediction Page
 ![Predict](screenshots/predict.png)
