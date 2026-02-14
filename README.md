@@ -163,7 +163,8 @@ screenshots/analytics.png
 👨‍💻 Author
 Ayush Singh
 GitHub: https://github.com/ayu-sh87
-LinkedIn: (Add your LinkedIn link)
+LinkedIn: www.linkedin.com/in/ayu108
+
 ⭐ Support
 If you like this project:
 Give it a ⭐ on GitHub
