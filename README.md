@@ -153,19 +153,20 @@ Real user feedback for accuracy tracking
 Docker-based deployment
 REST API for integration
 
+
 ## 📸 Application Screenshots
 
-### Login Page
-![Login](screenshots/landing.png)
+ Login Page
+ [Login](screenshots/landing.png)
 
-### Prediction Page
-![Predict](screenshots/predict.png)
+ Prediction Page
+ [Predict](screenshots/predict.png)
 
-### History Page
-![History](screenshots/history.png)
+ History Page
+ [History](screenshots/history.png)
 
-### Analytics Dashboard
-![Analytics](screenshots/analytics.png)
+ Analytics Dashboard
+ [Analytics](screenshots/analytics.png)
 
 👨‍💻 Author
 Ayush Singh
